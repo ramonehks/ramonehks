@@ -46,6 +46,8 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098)
 
+(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) | `bg_color=000` `border_color=30A3DC` `title_color=E94D5F` `text_color=FFF`|
+
 <p align="center"><b>Profile Views</b><br>
   <img src="https://profile-counter.glitch.me/murrayhks/count.svg" />
 </p>
