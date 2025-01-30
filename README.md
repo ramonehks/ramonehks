@@ -42,11 +42,21 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 `Responsive web design`, `Frameworks`, `Styled Components`, `Data Bases`, `Object-Oriented Programming`, `data structures and algorithms`.
 
+  **Learning:**<br>
+  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes&logoColor=ffffff&labelColor=0078D6)
+
 🌍 **Deployment platforms:**<br>
 
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098)
 
-(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) | `bg_color=000` `border_color=30A3DC` `title_color=E94D5F` `text_color=FFF`|
+## Most Used Languages
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=murrayhks&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
+
+  <div align="center">
+  <a href="https://github.com/murrayhks/Atividades-1-ano-IFPR/tree/main/4%20Bimestre/Pokedex"  target="_blank" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=Atividades-1-ano-IFPR&theme=tokyonight" width="40%" />
+  </a>
 
 <p align="center"><b>Profile Views</b><br>
   <img src="https://profile-counter.glitch.me/murrayhks/count.svg" />
