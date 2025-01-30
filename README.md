@@ -3,6 +3,13 @@
 
 <h2 align='center'><samp><strong>Welcome to my profile, dear visitant! 👋 I'm Arthur Murray D.</strong></samp></h2>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/hks4arthur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hks4arthur" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/zuneshaphonk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zuneshaphonk" height="30" width="40" /></a>
+<a href="https://discord.gg/zuneshadrift" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zuneshadrift" height="30" width="40" /></a>
+</p>
+
 <p align='center'>Mechanical & Automotive Engineer | Full-Stack JavaScript | Robotics Enthusiast</p>
 <br>
 <br>
@@ -63,11 +70,13 @@ VW Jetta 1995 MK3, Nissan Maxima A32
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098)
 
 ## Most Used Languages
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=murrayhks&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=murrayhks&bg_color=fff&border_color=30A3DC&title_color=E94D5F&text_color=000)
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
 
   <div align="center">
   <a href="https://github.com/murrayhks/FT450"  target="_blank" >
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=murrayhks&repo=FT450&theme=tokyonight" width="40%" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=murrayhks&repo=FT450&theme=tokyolight" width="40%" />
   </a>
 
 <p align="center"><b>Profile Views</b><br>
