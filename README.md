@@ -26,6 +26,18 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=FFA500)
+![Arch Linux](https://img.shields.io/badge/-ArchLinux-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+![Kali Linux](https://img.shields.io/badge/-KaliLinux-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+![Slackware](https://img.shields.io/badge/-SlackwareLinux-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=702963)
+![ParrotOS](https://img.shields.io/badge/-ParrotOS-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=00dc17)
+
+🧐 **Knowledge of:**<br>
+
+`Responsive web design`, `Frameworks`, `Styled Components`, `Data Bases`, `Object-Oriented Programming`, `data structures and algorithms`.
+
+🌍 **Deployment platforms:**<br>
+
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098)
 
 <p align="center"><b>Profile Views</b><br>
   <img src="https://profile-counter.glitch.me/murrayhks/count.svg" />
