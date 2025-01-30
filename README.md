@@ -4,10 +4,22 @@
 <h2 align='center'><samp><strong>Welcome to my profile, dear visitant! 👋 I'm Arthur Murray D.</strong></samp></h2>
 
 <p align='center'>Mechanical & Automotive Engineer | Full-Stack JavaScript | Robotics Enthusiast</p>
+<br>
+<br>
+
+
+
 
 <p align='left'> 📫 As a person passionate about cars, and especially mechanical automobiless, I also I showed interest into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
 
 Active programmer in web development using multiple tools, frameworks and libraries in both frontend and backend. I pay close attention to details to generate better products.
+
+<br>
+
+<b>🚗 Current Cars:</b>
+
+VW Jetta 1995 MK3, Nissan Maxima A32
+<br>
 
 💻 **Languages and Tools:** 🛠️<br>
 
@@ -54,8 +66,8 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=murrayhks&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
 
   <div align="center">
-  <a href="https://github.com/murrayhks/Atividades-1-ano-IFPR/tree/main/4%20Bimestre/Pokedex"  target="_blank" >
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=Atividades-1-ano-IFPR&theme=tokyonight" width="40%" />
+  <a href="https://github.com/murrayhks/FT450"  target="_blank" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=murrayhks&repo=FT450&theme=tokyonight" width="40%" />
   </a>
 
 <p align="center"><b>Profile Views</b><br>
