@@ -69,15 +69,19 @@ VW Jetta 1995 MK3, Nissan Maxima A32
 
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098)
 
+<h3><b>👷My Projects: </b></h3>
+
+ <div align="center">
+  <a href="https://github.com/murrayhks/FT450"  target="_blank" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=murrayhks&repo=FT450&theme=tokyolight" width="40%" />
+  </a>
+
 ## Most Used Languages
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=murrayhks&bg_color=fff&border_color=30A3DC&title_color=E94D5F&text_color=000)
 <p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=murrayhks" />
 
-  <div align="center">
-  <a href="https://github.com/murrayhks/FT450"  target="_blank" >
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=murrayhks&repo=FT450&theme=tokyolight" width="40%" />
-  </a>
+ 
 
 <p align="center"><b>Profile Views</b><br>
   <img src="https://profile-counter.glitch.me/murrayhks/count.svg" />
