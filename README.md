@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B60B0&height=120&section=header"/>
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world!">
 
-<h2 align='center'><samp><strong>Welcome to my profile, dear visitant! 👋 I'm Arthur Murray D.</strong></samp></h2>
+<h2 align='center'><samp><strong>Welcome to my profile, dear visitant! 👋 I'm Arthur Murray D. 🇧🇷 </strong></samp></h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
