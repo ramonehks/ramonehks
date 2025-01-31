@@ -75,7 +75,7 @@ VW Jetta 1995 MK3, Nissan Maxima A32
 
 🧐 **Knowledge of:**<br>
 
-`Responsive web design`, `Frameworks`, `Styled Components`, `Data Bases`, `Object-Oriented Programming`, `data structures and algorithms`, `Robotics`.
+`Responsive web design`, `Frameworks`, `Styled Components`, `Data Bases`, `Object-Oriented Programming`, `data structures and algorithms`, `Robotics`, `Cibersecurity`
 
   **Learning:**<br>
   
