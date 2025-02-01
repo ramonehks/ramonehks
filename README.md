@@ -25,7 +25,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 <b>🚗 Current Cars:</b>
 
-VW Jetta 1995 MK3, Nissan Maxima A32
+`Honda Civic EJ2 Coupé (borrowed)` `VW Jetta 1995 MK3 (borrowed)` `Nissan Maxima A32`
 <br>
 
 💻 **Languages and Tools:** 🛠️<br>
