@@ -62,16 +62,15 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Vyper](https://img.shields.io/badge/-Vyper-000000?style=flat&logo=vyper&logoColor=ffffff&labelColor=702963)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&labelColor=D2042D)
 ![Crystal](https://img.shields.io/badge/-Crystal-000000?style=flat&logo=Crystal&logoColor=grey&labelColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=microsoft&logoColor=ffffff&labelColor=0078D6)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=ffffff&labelColor=FFA500)
 ![Fedora Linux](https://img.shields.io/badge/-Fedora-000000?style=flat&logo=fedora&logoColor=ffffff&labelColor=0078D6)
-![Arch Linux](https://img.shields.io/badge/-ArchLinux-000000?style=flat&logo=archlinux&logoColor=00008B&labelColor=0078D6)
-![Kali Linux](https://img.shields.io/badge/-KaliLinux-000000?style=flat&logo=kalilinux&logoColor=00008B&labelColor=0078D6)
-![Slackware](https://img.shields.io/badge/-SlackwareLinux-000000?style=flat&logo=slackware&logoColor=ffffff&labelColor=702963)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-000000?style=flat&logo=archlinux&logoColor=00008B&labelColor=0078D6)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-000000?style=flat&logo=kalilinux&logoColor=00008B&labelColor=0078D6)
+![Slackware](https://img.shields.io/badge/-Slackware_Linux-000000?style=flat&logo=slackware&logoColor=ffffff&labelColor=702963)
 
 🧐 **Knowledge of:**<br>
 
