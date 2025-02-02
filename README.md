@@ -54,7 +54,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![Julia](https://img.shields.io/badge/-Julia-000000?style=flat&logo=julia&logoColor=6f3fc3&labelColor=63d7ff)
 ![Vala](https://img.shields.io/badge/-Vala-000000?style=flat&logo=vala&logoColor=ffffff&labelColor=6f3fc3)
 ![Perl](https://img.shields.io/badge/-Perl5-000000?style=flat&logo=perl&logoColor=563D7C&labelColor=b8b8b8)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=ffb600&labelColor=abe9ff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=purple&labelColor=abe9ff)
 ![OCaml](https://img.shields.io/badge/-OCaml-000000?style=flat&logo=ocaml&logoColor=ffb600&labelColor=faff9c)
 ![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=haskell&logoColor=b07bd9&labelColor=b8b8b9)
 ![Erlang](https://img.shields.io/badge/-Erlang-000000?style=flat&logo=erlang&logoColor=b1170d&labelColor=ffffff)
