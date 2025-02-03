@@ -22,9 +22,7 @@
 Active programmer in web development using multiple tools, frameworks and libraries in both frontend and backend. I pay close attention to details to generate better products.
 <br>
 
-<p align="center">
-  <img width="320" height="445" src="https://spotify-github-profile.kittinanx.com/api/view?uid=313ihwtidaatsubmzdqc24mqdaiy&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313ihwtidaatsubmzdqc24mqdaiy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 
