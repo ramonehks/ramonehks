@@ -17,7 +17,7 @@
 
 
 
-<p align='left'> 📫 As a person passionate about cars, and especially mechanical automobiless, proficiente in Vibe Phonk production. I also I showed interest into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
+<p align='left'> 📫 As a person passionate about cars, and especially mechanical automobiless, proficiente in music production. I also I showed interest into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
 
 Active programmer in web development using multiple tools, frameworks and libraries in both frontend and backend. I pay close attention to details to generate better products.
 <br>
