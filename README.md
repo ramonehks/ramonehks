@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B60B0&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world!">
 
 <h2 align='center'><samp><strong>Welcome to my profile, dear visitant! 👋 I'm Arthur Murray D. 🇧🇷 </strong></samp></h2>
@@ -33,14 +33,14 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 💻 **Languages and Tools:** 🛠️<br>
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=vscode&labelColor=007ACC)
 ![Portugol](https://img.shields.io/badge/-Portugol-000000?style=flat&logo=portugol&logoColor=5466b8&labelColor=FFFF00)
 ![Scratch](https://img.shields.io/badge/-Scratch-000000?style=flat&logo=scratch&logoColor=FFA500&labelColor=FFFF00)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=ffffff&labelColor=1572B6)
+![CoffeeScript](https://img.shields.io/badge/-CoffeeScript-000000?style=flat&logo=coffeescript&logoColor=A0522D&labelColor=black)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flutter&logo=flutter&logoColor=191970&labelColor=1572B6)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=f9db38&labelColor=0074e8)
@@ -48,7 +48,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=5466b8&labelColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&logoColor=5466b8&labelColor=ffffff)
 ![Scala](https://img.shields.io/badge/-Scala-000000?style=flat&logo=scala&logoColor=b1170d&labelColor=ffffff)
-![Lua](https://img.shields.io/badge/-Lua-000000?style=flat&logo=lua&logoColor=blue&labelColor=black)
+![Lua](https://img.shields.io/badge/-Lua-000000?style=flat&logo=lua&logoColor=blue&labelColor=white)
 ![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure&logoColor=338f00&labelColor=abe9ff)
 ![Go](https://img.shields.io/badge/-Go-000000?style=go&logo=go&logoColor=00a9cf&labelColor=c4f4ff)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=bb0000&labelColor=ffd1d1)
@@ -91,13 +91,17 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 `Responsive Web Design` `Frameworks` `Styled Components` `Data Bases` `Object-Oriented Programming` `Data Structures and Algorithms` `Robotics` `Cibersecurity`
 
-  **Learning:**<br>
-  
+ 🧠 **Learning:**<br>
+ 
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=8A2BE2&labelColor=white) 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes&logoColor=ffffff&labelColor=0078D6)
 
 🌍 **Deployment platforms:**<br>
 
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![Gitlab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab&logoColor=F05032&labelColor=ffffff)
 
 
 <h3><b>👷My Projects: </b></h3>
@@ -118,4 +122,4 @@ Active programmer in web development using multiple tools, frameworks and librar
   <img src="https://profile-counter.glitch.me/murrayhks/count.svg" />
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B60B0&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer"/>
