@@ -68,12 +68,23 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&labelColor=D2042D)
 ![Crystal](https://img.shields.io/badge/-Crystal-000000?style=flat&logo=Crystal&logoColor=grey&labelColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
+![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=microsoft&logoColor=ffffff&labelColor=0078D6)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=000&labelColor=fff)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=fff&labelColor=FFA500)
+![Xubuntu](https://img.shields.io/badge/-Xubuntu-000000?style=flat&logo=xubuntu&logoColor=212630&labelColor=1E90FF)
+![Lubuntu](https://img.shields.io/badge/-Lubuntu-000000?style=flat&logo=lubuntu&logoColor=212630&labelColor=1E90FF)
+![Kubuntu](https://img.shields.io/badge/-Kubuntu-000000?style=flat&logo=kubuntu&logoColor=212630&labelColor=1E90FF)
+![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=fff&labelColor=DC143C)
+![Red Hat Linux](https://img.shields.io/badge/-Red_Hat_Linux-000000?style=flat&logo=redhat&logoColor=D2042D&labelColor=black)
 ![Fedora Linux](https://img.shields.io/badge/-Fedora-000000?style=flat&logo=fedora&logoColor=ffffff&labelColor=0078D6)
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-000000?style=flat&logo=archlinux&logoColor=fff&labelColor=0078D6)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-000000?style=flat&logo=kalilinux&logoColor=fff&labelColor=0078D6)
+![Gentoo Linux](https://img.shields.io/badge/-Gentoo_Linux-000000?style=flat&logo=gentoo&logoColor=fff&labelColor=9370DB)
+![OpenSUSE](https://img.shields.io/badge/-OpenSUSE-000000?style=flat&logo=suse&logoColor=6B8E23&labelColor=white)
 ![Slackware](https://img.shields.io/badge/-Slackware_Linux-000000?style=flat&logo=slackware&logoColor=ffffff&labelColor=702963)
+![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android&logoColor=32CD32&labelColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat&logo=ios&logoColor=black&labelColor=white)
 
 🧐 **Knowledge of:**<br>
 
