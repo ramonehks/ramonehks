@@ -68,6 +68,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&labelColor=D2042D)
 ![Crystal](https://img.shields.io/badge/-Crystal-000000?style=flat&logo=Crystal&logoColor=grey&labelColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
+![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-000000?style=flat&logo=phpmyadmin&labelColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=microsoft&logoColor=ffffff&labelColor=0078D6)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=000&labelColor=fff)
