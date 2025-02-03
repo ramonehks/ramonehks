@@ -92,7 +92,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 `Responsive Web Design` `Frameworks` `Styled Components` `Data Bases` `Object-Oriented Programming` `Data Structures and Algorithms` `Robotics` `Cibersecurity`
 
  🧠 **Learning:**<br>
- 
+
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=8A2BE2&labelColor=white) 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes&logoColor=ffffff&labelColor=0078D6)
 
