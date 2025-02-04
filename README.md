@@ -33,7 +33,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 💻 **Languages and Tools:** 🛠️<br>
 
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=vscode&labelColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visualstudio&labelColor=007ACC)
 ![Portugol](https://img.shields.io/badge/-Portugol-000000?style=flat&logo=portugol&logoColor=5466b8&labelColor=FFFF00)
 ![Scratch](https://img.shields.io/badge/-Scratch-000000?style=flat&logo=scratch&logoColor=FFA500&labelColor=FFFF00)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
