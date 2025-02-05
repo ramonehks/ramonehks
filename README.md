@@ -52,7 +52,6 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure&logoColor=338f00&labelColor=abe9ff)
 ![Go](https://img.shields.io/badge/-Go-000000?style=go&logo=go&logoColor=00a9cf&labelColor=c4f4ff)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=bb0000&labelColor=ffd1d1)
-![Emerald](https://img.shields.io/badge/-Emerald-000000?style=flat&logo=ruby&logoColor=338f00&labelColor=cbffae)
 ![Elm](https://img.shields.io/badge/-Elm-000000?style=flat&logo=elm&logoColor=62f3c3&labelColor=b8b8b8)
 ![Julia](https://img.shields.io/badge/-Julia-000000?style=flat&logo=julia&logoColor=6f3fc3&labelColor=63d7ff)
 ![Vala](https://img.shields.io/badge/-Vala-000000?style=flat&logo=vala&logoColor=ffffff&labelColor=6f3fc3)
