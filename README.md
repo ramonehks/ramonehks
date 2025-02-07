@@ -119,7 +119,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 ## Most Used Languages
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=murrayhks&bg_color=fff&border_color=30A3DC&title_color=E94D5F&text_color=000)
 <p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=murrayhks" />
+
 
  
 
