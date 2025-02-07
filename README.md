@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world!">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello, World!">
 
 <h2 align='center'><samp><strong>Welcome to my profile, dear visitant! 👋 I'm Arthur Murray D. 🇧🇷 </strong></samp></h2>
 
@@ -101,9 +101,9 @@ Active programmer in web development using multiple tools, frameworks and librar
 🌍 **Deployment platforms:**<br>
 
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Gitlab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab&logoColor=F05032&labelColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=000)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=fff&labelColor=000)
+![Gitlab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab&logoColor=F05032&labelColor=000)
 
 
 <h3><b>👷My Projects: </b></h3>
