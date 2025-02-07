@@ -51,6 +51,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![Scala](https://img.shields.io/badge/-Scala-000000?style=flat&logo=scala&logoColor=b1170d&labelColor=000)
 ![Lua](https://img.shields.io/badge/-Lua-000000?style=flat&logo=lua&logoColor=blue&labelColor=000)
 ![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure&logoColor=338f00&labelColor=000)
+![Fortran](https://img.shields.io/badge/-Fortran-000000?style=flat&logo=fortran&logoColor=5466b8&labelColor=000)
 ![Go](https://img.shields.io/badge/-Go-000000?style=go&logo=go&logoColor=00a9cf&labelColor=000)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=fff&labelColor=000)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=bb0000&labelColor=000)
@@ -92,10 +93,10 @@ Active programmer in web development using multiple tools, frameworks and librar
 
  🧠 **Learning:**<br>
 
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=8A2BE2&labelColor=white) 
-![OCaml](https://img.shields.io/badge/-OCaml-000000?style=flat&logo=ocaml&logoColor=ffb600&labelColor=faff9c)
-![Crystal](https://img.shields.io/badge/-Crystal-000000?style=flat&logo=Crystal&logoColor=grey&labelColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes&logoColor=ffffff&labelColor=0078D6)
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=8A2BE2&labelColor=000) 
+![OCaml](https://img.shields.io/badge/-OCaml-000000?style=flat&logo=ocaml&logoColor=ffb600&labelColor=000)
+![Crystal](https://img.shields.io/badge/-Crystal-000000?style=flat&logo=Crystal&logoColor=grey&labelColor=000)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes&logoColor=0078D6&labelColor=000)
 
 🌍 **Deployment platforms:**<br>
 
