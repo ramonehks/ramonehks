@@ -58,7 +58,6 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![Vala](https://img.shields.io/badge/-Vala-000000?style=flat&logo=vala&logoColor=ffffff&labelColor=6f3fc3)
 ![Perl](https://img.shields.io/badge/-Perl5-000000?style=flat&logo=perl&logoColor=563D7C&labelColor=b8b8b8)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=purple&labelColor=abe9ff)
-![OCaml](https://img.shields.io/badge/-OCaml-000000?style=flat&logo=ocaml&logoColor=ffb600&labelColor=faff9c)
 ![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=haskell&logoColor=b07bd9&labelColor=b8b8b9)
 ![Erlang](https://img.shields.io/badge/-Erlang-000000?style=flat&logo=erlang&logoColor=b1170d&labelColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
@@ -66,7 +65,6 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&labelColor=D2042D)
-![Crystal](https://img.shields.io/badge/-Crystal-000000?style=flat&logo=Crystal&logoColor=grey&labelColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-000000?style=flat&logo=phpmyadmin&labelColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&labelColor=ffffff)
@@ -94,6 +92,8 @@ Active programmer in web development using multiple tools, frameworks and librar
  🧠 **Learning:**<br>
 
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=8A2BE2&labelColor=white) 
+![OCaml](https://img.shields.io/badge/-OCaml-000000?style=flat&logo=ocaml&logoColor=ffb600&labelColor=faff9c)
+![Crystal](https://img.shields.io/badge/-Crystal-000000?style=flat&logo=Crystal&logoColor=grey&labelColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes&logoColor=ffffff&labelColor=0078D6)
 
 🌍 **Deployment platforms:**<br>
