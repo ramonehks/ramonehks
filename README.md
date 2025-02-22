@@ -109,21 +109,21 @@ Active programmer in web development using multiple tools, frameworks and librar
 <h3><b>👷My Projects: </b></h3>
 
  <div align="center">
-  <a href="https://github.com/murrayhks/FT450"  target="_blank" >
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=murrayhks&repo=FT450&theme=tokyonight" width="40%" />
-   <a href="https://github.com/murrayhks/Lily-GPS"  target="_blank" >
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=murrayhks&repo=Lily-GPS&theme=tokyonight" width="40%" />
+  <a href="https://github.com/lennonhks/FT450"  target="_blank" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=lennonhks&repo=FT450&theme=tokyonight" width="40%" />
+   <a href="https://github.com/lennonhks/Lily-GPS"  target="_blank" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=lennonhks&repo=Lily-GPS&theme=tokyonight" width="40%" />
   </a>
 
 
 ## Most Used Languages
-</p><img align="center" height="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=murrayhks&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p><img align="center" height="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennonhks&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 
 
  
 
 <p align="center"><b>Profile Views</b><br>
-  <img src="https://profile-counter.glitch.me/murrayhks/count.svg" />
+  <img src="https://profile-counter.glitch.me/lennonhks/count.svg" />
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer"/>
