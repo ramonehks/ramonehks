@@ -29,7 +29,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 <b>🚗 Current Cars:</b>
 
- `VW Jetta 1995 MK3` `Honda Integra 2000`
+ `Volkswagen Jetta 1995 MK3` `Honda Integra 2000` `Nissan Maxima QX A32`
 
 <b>🚗⏰ Borrowed Cars:</b>
 
@@ -37,7 +37,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 <b>🚗💸 Sold Cars:</b>
 
-`Chevrolet Opala 1978` `Fiat Punto 1.6` `Citroen C4 2007` `Nissan Maxima QX A32`
+`Chevrolet Opala 1978` `Fiat Punto 1.6` `Citroen C4 2007`
 <br>
 
 💻 **Languages and Tools:** 🛠️<br>
