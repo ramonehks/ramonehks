@@ -29,7 +29,11 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 <b>🚗 Current Cars:</b>
 
-`Honda Civic EJ2 Coupé (borrow'd)` `Vectra GLS 1998 (borrow'd)` `Nissan Maxima QX A32` `VW Jetta 1995 MK3`
+`Nissan Maxima QX A32` `VW Jetta 1995 MK3`
+
+<b>🚗⏰ Borrowed Cars:</b>
+
+`Honda Civic EJ3 Coupé` `Vectra GLS 1998`
 <br>
 
 💻 **Languages and Tools:** 🛠️<br>
