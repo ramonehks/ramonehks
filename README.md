@@ -36,6 +36,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 `Honda Civic EJ3 Coupé` `Vectra GLS 1998` `Chevrolet Opala 1978` 
 
 <b>🚗💸 Sold Cars:</b>
+
 `Chevrolet Opala 1978` `Fiat Punto 1.6` `Citroen C4 2007` `Nissan Maxima QX A32`
 <br>
 
