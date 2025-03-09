@@ -31,10 +31,12 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 `Honda Integra 2000 Type R` `Nissan Sunny EX 2000`
 
-<b>🚗⏰My Cars Historic:</b>
+<b>🚗⏰ My Cars Historic:</b>
 
-`Honda Civic EJ1 Coupé` `Vectra GLS 1998` `Chevrolet Monza Club 1994` `Chevrolet Kadett GSI 2.0 1995` `Chevrolet Opala 1978 (sold)`  `Volkswagen Jetta 1995 MK3 (borrowed)` `Fiat Punto 1.6 (sold)` `Citroen C4 2007 (sold)`
+`Honda Civic EJ1 Coupé` `Vectra GLS 1998` `Chevrolet Kadett GSI 2.0 1995`  `Volkswagen Jetta 1995 MK3` 
 
+<b>🚗💸🤝 Selled Cars:</b>
+`Chevrolet Monza Club 1994 (SELLED)` `Chevrolet Opala 1978 (SELLED)` `Fiat Punto 1.6 (SELLED)` `Citroen C4 2007 (SELLED)`
 <br>
 
 💻 **Languages and Tools:** 🛠️<br>
