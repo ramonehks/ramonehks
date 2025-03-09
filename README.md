@@ -33,7 +33,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 <b>🚗⏰My Cars Historic:</b>
 
-`Honda Civic EJ1 Coupé` `Vectra GLS 1998` `Chevrolet Opala 1978 (sold)`  `Volkswagen Jetta 1995 MK3 (borrowed)` `Fiat Punto 1.6 (sold)` `Citroen C4 2007 (sold)`
+`Honda Civic EJ1 Coupé` `Vectra GLS 1998` `Chevrolet Monza Club 1994` `Chevrolet Kadett GSI 2.0 1995` `Chevrolet Opala 1978 (sold)`  `Volkswagen Jetta 1995 MK3 (borrowed)` `Fiat Punto 1.6 (sold)` `Citroen C4 2007 (sold)`
 
 <br>
 
