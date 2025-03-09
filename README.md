@@ -36,7 +36,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 `Honda Civic EJ1 Coupé` `Vectra GLS 1998` `Chevrolet Kadett GSI 2.0 1995`  `Volkswagen Jetta 1995 MK3` 
 
 <b>🚗💸🤝 Selled Cars:</b>
-`Chevrolet Monza Club 1994 (SELLED)` `Chevrolet Opala 1978 (SELLED)` `Fiat Punto 1.6 (SELLED)` `Citroen C4 2007 (SELLED)`
+`Chevrolet Monza Club 1994 (SOLD)` `Chevrolet Opala 1978 (SOLD)` `Fiat Punto 1.6 (SOLD)` `Citroen C4 2007 (SOLD)`
 <br>
 
 💻 **Languages and Tools:** 🛠️<br>
