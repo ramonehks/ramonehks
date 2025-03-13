@@ -29,7 +29,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 <b>🚗 Current Cars:</b>
 
-`Honda Integra 2000 Type R` `Nissan Sunny EX 2000 Coupé` `Nissan Maxima A32`
+`Honda Integra 2000 Type R` `Nissan Sunny EX 2000 Coupé` `Nissan Maxima A32 1998`
 
 <b>🚗⏰ My Cars Historic:</b>
 
