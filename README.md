@@ -96,7 +96,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 🧐 **Knowledge of:**<br>
 
-`Responsive Web Design` `Frameworks` `Styled Components` `Data Bases` `Object-Oriented Programming` `UI/UX Design` `Data Structures and Algorithms` `B.I Analysis` `Robotics` `Cibersecurity`
+`Responsive Web Design` `Web Language Programming` `Frameworks` `Styled Components` `Data Bases` `Object-Oriented Programming` `UI/UX Design` `Data Structures and Algorithms` `B.I Analysis` `Robotics` `Cibersecurity`
 
  🧠 **Learning:**<br>
 
