@@ -33,7 +33,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 <b>🚗⏰ My Cars Historic:</b>
 
-`Mitsubishi Lancer Evolution VIII` `Honda Civic EJ1 Coupé` `Vectra GLS 1998` `Chevrolet Kadett GSI 2.0 1995` `Toyota Aristo V300 Coupé` `Volkswagen Jetta 1995 MK3` `Chevrolet Monza Club 1994` `Chevrolet Opala 1978` `Fiat Punto 1.6` `Citroen C4 2007`
+`Mitsubishi Eclipse GSX 1999` `Honda Civic EJ1 Coupé` `Vectra GLS 1998` `Chevrolet Kadett GSI 2.0 1995` `Toyota Aristo V300 Coupé` `Volkswagen Jetta 1995 MK3` `Chevrolet Monza Club 1994` `Chevrolet Opala 1978` `Fiat Punto 1.6` `Citroen C4 2007`
 
 <b>🚗💸🤝 Selled Cars:</b>
 `Chevrolet Monza Club 1994 (SOLD)` `Chevrolet Opala 1978 (SOLD)` `Fiat Punto 1.6 (SOLD)` `Citroen C4 2007 (SOLD)`
