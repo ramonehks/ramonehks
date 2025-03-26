@@ -29,7 +29,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 <b>🚗 Current Cars:</b>
 
-`Honda Civic Ej1 Coupê` `Volkswagen Jetta 1995 MK3`
+`Honda Civic EX 1995 Coupê` `Nissan Maxima A32 1995`
 
 <b>🚗⏰ My Cars Historic:</b>
 
