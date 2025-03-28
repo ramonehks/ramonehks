@@ -5,10 +5,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/arthurlenn0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hks4arthur" height="40" width="50" /></a>
-<a href="https://www.youtube.com/@zuneshaphonk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zuneshaphonk" height="40" width="50" /></a>
-<a href="https://discord.gg/zuneshadrift" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zuneshadrift" height="50" width="40" /></a>
-<a href="https://soundcloud.com/zunxsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="zuneshadrift" height="50" width="40" /></a>
+<a href="https://instagram.com/arthurhtway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthurhtway" height="40" width="50" /></a>
+<a href="https://www.youtube.com/@hathxway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hathxway" height="40" width="50" /></a>
+<a href="https://discord.gg/hathxway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hathxway" height="50" width="40" /></a>
+<a href="https://soundcloud.com/hathxway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="hathxway" height="50" width="40" /></a>
 
 
 <p align='center'>Mechanical & Automotive Engineer | Vibe Phonk Production | Full-Stack JavaScript | Robotics Enthusiast</p>
