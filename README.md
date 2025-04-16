@@ -45,6 +45,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![Scratch](https://img.shields.io/badge/-Scratch-000000?style=flat&logo=scratch&logoColor=FFA500&labelColor=000)
 ![HTML5](https://img.shields.io/badge/-HTML_5-000000?style=flat&logo=html5&logoColor=FF8C00&labelColor=000)
 ![CSS3](https://img.shields.io/badge/-CSS_3-000000?style=flat&logo=css3&logoColor=007ACC&labelColor=000)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC&labelColor=000)
 ![CoffeeScript](https://img.shields.io/badge/-CoffeeScript-000000?style=flat&logo=coffeescript&logoColor=A0522D&labelColor=black)
