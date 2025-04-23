@@ -8,6 +8,8 @@
 <a href="https://instagram.com/rhittarthur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhittarthur" height="40" width="50" /></a>
 <a href="https://www.youtube.com/@rhittamane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rhittamane" height="40" width="50" /></a>
 <a href="https://soundcloud.com/rhittamane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="rhittamane" height="50" width="40" /></a>
+<a href="https://www.roblox.com/users/7395826438/profile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Roblox_logo.svg/1920px-Roblox_logo.svg.png" alt="Rhitta" height="50" width="90" /></a>
+
 
 
 <p align='center'>Mechanical & Automotive Engineer | Vibe Phonk Production | Full-Stack JavaScript | Robotics Enthusiast</p>
