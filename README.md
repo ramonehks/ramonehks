@@ -116,10 +116,15 @@ Active programmer in web development using multiple tools, frameworks and librar
 <h3><b>👷My Projects: </b></h3>
 
  <div align="center">
-  <a href="https://github.com/rhittahks/FT450"target="_blank" >
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=rhittahks&repo=FT450&theme=tokyonight" width="40%"/>
-   <a href="https://github.com/rhittahks/Lily-GPS"  target="_blank" >
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=rhittahks&repo=Lily-GPS&theme=tokyonight" width="40%" />
+   <a href="https://github.com/rhittahks/Olho-De-Deus"  target="_blank" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=rhittahks&repo=Olho-De-Deus&theme=tokyonight" width="40%" />
+
+   <a href="https://github.com/rhittahks/My-Cars"  target="_blank" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=rhittahks&repo=My-Cars&theme=tokyonight" width="40%" />
+
+   <a href="https://github.com/rhittahks/FT450"  target="_blank" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=rhittahks&repo=FT450&theme=tokyonight" width="40%" />
+    
   </a>
 
 
