@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://instagram.com/rhittarthur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhittarthur" height="40" width="50" /></a>
 <a href="https://www.youtube.com/@rhittamane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rhittamane" height="40" width="50" /></a>
-<a href="https://soundcloud.com/hathxway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="hathxway" height="50" width="40" /></a>
+<a href="https://soundcloud.com/rhittamane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="rhittamane" height="50" width="40" /></a>
 
 
 <p align='center'>Mechanical & Automotive Engineer | Vibe Phonk Production | Full-Stack JavaScript | Robotics Enthusiast</p>
@@ -126,12 +126,6 @@ Active programmer in web development using multiple tools, frameworks and librar
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=rhittahks&repo=FT450&theme=tokyonight" width="40%" />
     
   </a>
-
-
-## Most Used Languages
-</p><img align="center" height="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhittahks&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-
-
  
 
 <p align="center"><b>Profile Views</b><br>
