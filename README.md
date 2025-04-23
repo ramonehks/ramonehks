@@ -8,7 +8,7 @@
 <a href="https://instagram.com/rhittarthur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhittarthur" height="40" width="50" /></a>
 <a href="https://www.youtube.com/@rhittamane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rhittamane" height="40" width="50" /></a>
 <a href="https://soundcloud.com/rhittamane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="rhittamane" height="50" width="40" /></a>
-<a href="https://www.roblox.com/users/7395826438/profile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Roblox_logo.svg/1920px-Roblox_logo.svg.png" alt="Rhitta" height="50" width="90" /></a>
+<a href="https://www.roblox.com/users/7395826438/profile" target="blank"><img align="center" src="https://static.wikia.nocookie.net/logopedia/images/b/b7/ROBLOX_2006-2009.svg/revision/latest/scale-to-width-down/1000?cb=20250403121056" alt="Rhitta" height="50" width="45" /></a>
 
 
 
@@ -59,15 +59,11 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&logoColor=5466b8&labelColor=000)
 ![Scala](https://img.shields.io/badge/-Scala-000000?style=flat&logo=scala&logoColor=b1170d&labelColor=000)
 ![Lua](https://img.shields.io/badge/-Lua-000000?style=flat&logo=lua&logoColor=blue&labelColor=000)
-![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure&logoColor=338f00&labelColor=000)
-![Fortran](https://img.shields.io/badge/-Fortran-000000?style=flat&logo=fortran&logoColor=5466b8&labelColor=000)
 ![Go](https://img.shields.io/badge/-Go-000000?style=go&logo=go&logoColor=00a9cf&labelColor=000)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=fff&labelColor=000)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=bb0000&labelColor=000)
 ![Elm](https://img.shields.io/badge/-Elm-000000?style=flat&logo=elm&logoColor=62f3c3&labelColor=000)
 ![Julia](https://img.shields.io/badge/-Julia-000000?style=flat&logo=julia&logoColor=bb0000&labelColor=000)
 ![Vala](https://img.shields.io/badge/-Vala-000000?style=flat&logo=vala&logoColor=9370DB&labelColor=000)
-![Perl](https://img.shields.io/badge/-Perl5-000000?style=flat&logo=perl&logoColor=5F9EA0&labelColor=000)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=purple&labelColor=000)
 ![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=haskell&logoColor=b07bd9&labelColor=000)
 ![Erlang](https://img.shields.io/badge/-Erlang-000000?style=flat&logo=erlang&logoColor=b1170d&labelColor=000)
