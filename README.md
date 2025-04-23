@@ -11,7 +11,6 @@
 <a href="https://www.roblox.com/users/7395826438/profile" target="blank"><img align="center" src="https://static.wikia.nocookie.net/logopedia/images/b/b7/ROBLOX_2006-2009.svg/revision/latest/scale-to-width-down/1000?cb=20250403121056" alt="Rhitta" height="50" width="45" /></a>
 
 
-
 <p align='center'>Mechanical & Automotive Engineer | Vibe Phonk Production | Full-Stack JavaScript | Robotics Enthusiast</p>
 <br>
 <br>
