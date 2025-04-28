@@ -60,8 +60,6 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![Lua](https://img.shields.io/badge/-Lua-000000?style=flat&logo=lua&logoColor=blue&labelColor=000)
 ![Go](https://img.shields.io/badge/-Go-000000?style=go&logo=go&logoColor=00a9cf&labelColor=000)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=bb0000&labelColor=000)
-![Elm](https://img.shields.io/badge/-Elm-000000?style=flat&logo=elm&logoColor=62f3c3&labelColor=000)
-![Julia](https://img.shields.io/badge/-Julia-000000?style=flat&logo=julia&logoColor=bb0000&labelColor=000)
 ![Vala](https://img.shields.io/badge/-Vala-000000?style=flat&logo=vala&logoColor=9370DB&labelColor=000)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=purple&labelColor=000)
 ![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=haskell&logoColor=b07bd9&labelColor=000)
