@@ -31,7 +31,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 `Honda Civic EJ1 1995 Coupê` `Chevrolet Kadett GSI 2.0 1995`
 
-<b>🚗⏰ My Cars Historic:</b>
+<b>🚗⏰ Cars Driven:</b>
 
 `Santa Matilde 1990 4.1` `Acura Integra Type R` `Honda CRX Del Sol` `Mitsubishi Eclipse GSX 1999` `Ford Mustang 1965` `Chevrolet Opala 1978` `Honda Civic EJ1 1995 Coupê`  `Chevrolet Kadett GSI 2.0 1995` `Toyota Aristo V300 Coupé` `Volkswagen Jetta 1995 MK3` `Chevrolet Monza Club 1994` `Chevrolet Opala 1978` `Fiat Punto 1.6` `Citroen C4 2007`
 
