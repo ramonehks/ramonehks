@@ -59,16 +59,21 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&logoColor=5466b8&labelColor=000)
 ![Scala](https://img.shields.io/badge/-Scala-000000?style=flat&logo=scala&logoColor=b1170d&labelColor=000)
 ![Lua](https://img.shields.io/badge/-Lua-000000?style=flat&logo=lua&logoColor=blue&labelColor=000)
-![Go](https://img.shields.io/badge/-Go-000000?style=go&logo=go&logoColor=00a9cf&labelColor=000)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=bb0000&labelColor=000)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=purple&labelColor=000)
 ![Erlang](https://img.shields.io/badge/-Erlang-000000?style=flat&logo=erlang&logoColor=b1170d&labelColor=000)
+![Racket](https://img.shields.io/badge/-Racket-000000?style=flat&logo=racket&logoColor=bb0000&labelColor=4169E1)
 
 
 **IDEs:** <br>
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visualstudiocode&labelColor=007ACC)
 ![Portugol](https://img.shields.io/badge/-Portugol-000000?style=flat&logo=portugol&logoColor=5466b8&labelColor=FFFF00)
 ![Scratch](https://img.shields.io/badge/-Scratch-000000?style=flat&logo=scratch&logoColor=FFA500&labelColor=000)
+![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-000000?style=flat&logo=codeblocks&labelColor=000)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellijidea&logoColor=007ACC&labelColor=000)
+![Eclipse](https://img.shields.io/badge/-Eclipse-000000?style=flat&logo=eclipse&logoColor=FF8C00&labelColor=191970)
+![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino&logoColor=26867c&labelColor=000)
+
 
 🛠️ **Tools:** <br>
 
@@ -87,6 +92,9 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=000)
 ![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-000000?style=flat&logo=phpmyadmin&labelColor=000)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&labelColor=000)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=32CD32&labelColor=000)
+![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=apache&logoColor=FFA500&labelColor=000)
 
 **Operational Systems:** <br>
 
