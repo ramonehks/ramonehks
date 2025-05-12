@@ -27,30 +27,31 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 <br>
 
-<b>🚗 Current Cars:</b>
+<b>🚗 **Current Cars:** </b>
 
-`Santa Matilde SM 4.1 1986` `Chevelle SS 80`
+`Santa Matilde SM 4.1 1986` `Chevrolet Opala 1978`
 
-<b>🚗⏰ Cars Driven:</b>
+<b>🚗⏰ **Cars Driven:** </b>
 
-`Santa Matilde 1990 4.1` `Acura Integra Type R` `Honda CRX Del Sol` `Mitsubishi Eclipse GSX 1999` `Ford Mustang 1965` `Chevrolet Opala 1978` `Honda Civic EJ1 1995 Coupê`  `Chevrolet Kadett GSI 2.0 1995` `Toyota Aristo V300 Coupé` `Volkswagen Jetta 1995 MK3` `Chevrolet Monza Club 1994` `Chevrolet Opala 1978` `Fiat Punto 1.6` `Citroen C4 2007`
+`Santa Matilde SM 1986 4.1` `Honda CRX Del Sol` `Chevrolet Opala 1978` `Honda Civic EJ1 1995 Coupê`  `Chevrolet Kadett GSI 2.0 1995` `Toyota Aristo V300 Coupé` `Volkswagen Jetta 1995 MK3` `Chevrolet Monza Club 1994` `Chevrolet Opala 1978` `Fiat Punto 1.6` `Citroen C4 2007`
 
-<b>🚗💸🤝 Selled Cars:</b>
+<b>🚗💸🤝 **Selled Cars:** </b>
 `Chevrolet Monza Club 1994 (SOLD)` `Vectra GLS 1998 (SOLD)` `Fiat Punto 1.6 (SOLD)` `Citroen C4 2007 (SOLD)`
 <br>
 
-💻 **Languages and Tools:** 🛠️<br>
+🧐 **Knowledge of:**<br>
 
-![Visual Studio Code](https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visualstudiocode&labelColor=007ACC)
+`Responsive Web Design` `Web Language Programming` `Frameworks` `Styled Components` `Data Bases` `Object-Oriented Programming` `UI/UX Design` `Data Structures and Algorithms` `B.I Analysis` `Robotics` `Cybersecurity` `Mechanical Engineering` `Eletronic Engineering`
+
+💻 **Languages:** <br>
+
 ![Portugol](https://img.shields.io/badge/-Portugol-000000?style=flat&logo=portugol&logoColor=5466b8&labelColor=FFFF00)
 ![Scratch](https://img.shields.io/badge/-Scratch-000000?style=flat&logo=scratch&logoColor=FFA500&labelColor=000)
 ![HTML5](https://img.shields.io/badge/-HTML_5-000000?style=flat&logo=html5&logoColor=FF8C00&labelColor=000)
 ![CSS3](https://img.shields.io/badge/-CSS_3-000000?style=flat&logo=css3&logoColor=007ACC&labelColor=000)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC&labelColor=000)
 ![CoffeeScript](https://img.shields.io/badge/-CoffeeScript-000000?style=flat&logo=coffeescript&logoColor=A0522D&labelColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flutter&logo=flutter&logoColor=1E90FF&labelColor=000)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=000)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=f9db38&labelColor=000)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=5466b8&labelColor=000)
@@ -60,18 +61,35 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![Lua](https://img.shields.io/badge/-Lua-000000?style=flat&logo=lua&logoColor=blue&labelColor=000)
 ![Go](https://img.shields.io/badge/-Go-000000?style=go&logo=go&logoColor=00a9cf&labelColor=000)
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=bb0000&labelColor=000)
-![Vala](https://img.shields.io/badge/-Vala-000000?style=flat&logo=vala&logoColor=9370DB&labelColor=000)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=purple&labelColor=000)
-![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=haskell&logoColor=b07bd9&labelColor=000)
 ![Erlang](https://img.shields.io/badge/-Erlang-000000?style=flat&logo=erlang&logoColor=b1170d&labelColor=000)
+
+
+**IDEs:** <br>
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visualstudiocode&labelColor=007ACC)
+![Portugol](https://img.shields.io/badge/-Portugol-000000?style=flat&logo=portugol&logoColor=5466b8&labelColor=FFFF00)
+![Scratch](https://img.shields.io/badge/-Scratch-000000?style=flat&logo=scratch&logoColor=FFA500&labelColor=000)
+
+🛠️ **Tools:** <br>
+
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flutter&logo=flutter&logoColor=1E90FF&labelColor=000)
+![Vala](https://img.shields.io/badge/-Vala-000000?style=flat&logo=vala&logoColor=9370DB&labelColor=000)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=000)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C&labelColor=000)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=fff&labelColor=000)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&logoColor=bb0000&labelColor=000)
+![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&labelColor=000)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=6B8E23&labelColor=000)
+
+**Databases:** <br>
+
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=000)
 ![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-000000?style=flat&logo=phpmyadmin&labelColor=000)
-![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&labelColor=000)
+
+**Operational Systems:** <br>
+
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=microsoft&logoColor=ffffff&labelColor=0078D6)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=fff&labelColor=000)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=FFA500&labelColor=000)
@@ -89,18 +107,15 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android&logoColor=32CD32&labelColor=000)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat&logo=ios&logoColor=fff&labelColor=000)
 
-🧐 **Knowledge of:**<br>
-
-`Responsive Web Design` `Web Language Programming` `Frameworks` `Styled Components` `Data Bases` `Object-Oriented Programming` `UI/UX Design` `Data Structures and Algorithms` `B.I Analysis` `Robotics` `Cibersecurity`
-
- 🧠 **Learning:**<br>
-
+ 🧠 **Learning:** <br>
+ 
+![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=haskell&logoColor=b07bd9&labelColor=000)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=8A2BE2&labelColor=000) 
 ![OCaml](https://img.shields.io/badge/-OCaml-000000?style=flat&logo=ocaml&logoColor=ffb600&labelColor=000)
 ![Crystal](https://img.shields.io/badge/-Crystal-000000?style=flat&logo=Crystal&logoColor=grey&labelColor=000)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes&logoColor=0078D6&labelColor=000)
 
-🌍 **Deployment platforms:**<br>
+🌍 **Deployment platforms:** <br>
 
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=000)
@@ -108,7 +123,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![Gitlab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab&logoColor=F05032&labelColor=000)
 
 
-<h3><b>👷My Projects: </b></h3>
+👷 **My Projects:** <br>
 
  <div align="center">
    <a href="https://github.com/queenhks/Olho-De-Deus"  target="_blank" >
