@@ -29,11 +29,11 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 <b>🚗 **Current Cars:** </b>
 
-`Santa Matilde SM 4.1 1986` `Chevrolet Opala 1978`
+ `Chevrolet Opala 1977` `Santa Matilde SM 4.1 1986`
 
 <b>🚗⏰ **Cars Driven:** </b>
 
-`Santa Matilde SM 1986 4.1` `Honda CRX Del Sol` `Chevrolet Opala 1978` `Honda Civic EJ1 1995 Coupê`  `Chevrolet Kadett GSI 2.0 1995` `Toyota Aristo V300 Coupé` `Volkswagen Jetta 1995 MK3` `Chevrolet Monza Club 1994` `Chevrolet Opala 1978` `Fiat Punto 1.6` `Citroen C4 2007`
+`Santa Matilde SM 1986 4.1` `Honda CRX Del Sol` `Chevrolet Opala 1977` `Honda Civic EJ1 1995 Coupê`  `Chevrolet Kadett GSI 2.0 1995` `Toyota Aristo V300 Coupé` `Volkswagen Jetta 1995 MK3` `Chevrolet Monza Club 1994` `Chevrolet Opala 1978` `Fiat Punto 1.6` `Citroen C4 2007`
 
 <b>🚗💸🤝 **Selled Cars:** </b>
 `Chevrolet Monza Club 1994 (SOLD)` `Vectra GLS 1998 (SOLD)` `Fiat Punto 1.6 (SOLD)` `Citroen C4 2007 (SOLD)`
