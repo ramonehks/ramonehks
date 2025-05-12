@@ -83,7 +83,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&labelColor=000)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=6B8E23&labelColor=000)
 
-**Databases:** <br>
+🎲 **Databases:** <br>
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=000)
 ![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-000000?style=flat&logo=phpmyadmin&labelColor=000)
