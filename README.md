@@ -29,7 +29,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 <b>🚗 Current Cars:</b>
 
-` `
+`Santa Matilde SM 4.1 1986` `Chevelle SS 80`
 
 <b>🚗⏰ Cars Driven:</b>
 
