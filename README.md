@@ -62,7 +62,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=bb0000&labelColor=000)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=purple&labelColor=000)
 ![Erlang](https://img.shields.io/badge/-Erlang-000000?style=flat&logo=erlang&logoColor=b1170d&labelColor=000)
-![Racket](https://img.shields.io/badge/-Racket-000000?style=flat&logo=racket&logoColor=bb0000&labelColor=4169E1)
+![Racket](https://img.shields.io/badge/-Racket-000000?style=flat&logo=racket&logoColor=bb0000&labelColor=000)
 
 
 **IDEs:** <br>
@@ -71,13 +71,13 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![Scratch](https://img.shields.io/badge/-Scratch-000000?style=flat&logo=scratch&logoColor=FFA500&labelColor=000)
 ![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-000000?style=flat&logo=codeblocks&labelColor=000)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellijidea&logoColor=007ACC&labelColor=000)
-![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm&logoColor=008000&labelColor=87CEFA)
-![RubyMine](https://img.shields.io/badge/-RubyMine-000000?style=flat&logo=rubymine&logoColor=FF4500&labelColor=FFA500)
-![PHPStorm](https://img.shields.io/badge/-PHPStorm-000000?style=flat&logo=phpstorm&logoColor=EE82EE&labelColor=9400D3)
-![Eclipse](https://img.shields.io/badge/-Eclipse-000000?style=flat&logo=eclipse&logoColor=FF8C00&labelColor=191970)
-![GNS Emacs](https://img.shields.io/badge/-GNU_Emacs-000000?style=flat&logo=gnuemacs&logoColor=E6E6FA&labelColor=BA55D3)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=FFA500&labelColor=808080)
-![Sublime Text](https://img.shields.io/badge/-Sublime_Text-000000?style=flat&logo=sublimetext&logoColor=FFA500&labelColor=696969)
+![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm&logoColor=008000&labelColor=000)
+![RubyMine](https://img.shields.io/badge/-RubyMine-000000?style=flat&logo=rubymine&logoColor=FF4500&labelColor=000)
+![PHPStorm](https://img.shields.io/badge/-PHPStorm-000000?style=flat&logo=phpstorm&logoColor=EE82EE&labelColor=000)
+![Eclipse](https://img.shields.io/badge/-Eclipse-000000?style=flat&logo=eclipse&logoColor=FF8C00&labelColor=000)
+![GNS Emacs](https://img.shields.io/badge/-GNU_Emacs-000000?style=flat&logo=gnuemacs&logoColor=BA55D3&labelColor=000)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=FFA500&labelColor=000)
+![Sublime Text](https://img.shields.io/badge/-Sublime_Text-000000?style=flat&logo=sublimetext&logoColor=FFA500&labelColor=000)
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino&logoColor=26867c&labelColor=000)
 
 
