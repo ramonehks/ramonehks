@@ -6,9 +6,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rhittarthur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhittarthur" height="40" width="50" /></a>
-<a href="https://www.youtube.com/@rhittamane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rhittamane" height="40" width="50" /></a>
-<a href="https://soundcloud.com/rhittamane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="rhittamane" height="50" width="40" /></a>
-<a href="https://www.roblox.com/users/7395826438/profile" target="blank"><img align="center" src="https://static.wikia.nocookie.net/logopedia/images/b/b7/ROBLOX_2006-2009.svg/revision/latest/scale-to-width-down/1000?cb=20250403121056" alt="Rhitta" height="50" width="45" /></a>
 
 
 <p align='center'>Mechanical & Automotive Engineer | Vibe Phonk Production | Full-Stack JavaScript | Robotics Enthusiast</p>
