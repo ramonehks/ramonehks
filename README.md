@@ -33,7 +33,9 @@ Active programmer in web development using multiple tools, frameworks and librar
 `Santa Matilde SM 1986 4.1` `Honda CRX Del Sol` `Chevrolet Opala 1977` `Honda Civic EJ1 1995`  `Chevrolet Kadett GSI 2.0 1995` `Toyota Aristo V300 Coupé` `Volkswagen Jetta 1995 MK3 Coupê` `Chevrolet Monza Club 1994` `Chevrolet Opala 1978` `Fiat Punto 1.6` `Citroen C4 2007`
 
 <b>🚗💸🤝 **Selled Cars:** </b>
+
 `Chevrolet Monza Club 1994 (SOLD)` `Vectra GLS 1998 (SOLD)` `Fiat Punto 1.6 (SOLD)` `Citroen C4 2007 (SOLD)`
+
 <br>
 
 🧐 **Knowledge of:**<br>
@@ -66,6 +68,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visualstudiocode&labelColor=007ACC)
 ![Portugol](https://img.shields.io/badge/-Portugol-000000?style=flat&logo=portugol&logoColor=5466b8&labelColor=FFFF00)
 ![Scratch](https://img.shields.io/badge/-Scratch-000000?style=flat&logo=scratch&logoColor=FFA500&labelColor=000)
+![Exercism](https://img.shields.io/badge/-Exercism-000000?style=flat&logo=exercism&labelColor=000)
 ![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-000000?style=flat&logo=codeblocks&labelColor=000)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellijidea&logoColor=007ACC&labelColor=000)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm&logoColor=008000&labelColor=000)
