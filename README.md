@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello, World!">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello, World!"> 
 
 <h2 align='center'><samp><strong>Welcome to my profile, dear visitant! 👋 I'm Arthur Kamino 🇧🇷 </strong></samp></h2> 
 
