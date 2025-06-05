@@ -26,7 +26,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 <b>🚗 **Current Cars:** </b>
 
- `Volkswagen Jetta 1995 MK3 Coupê` `Santa Matilde SM 4.1 1986`
+ `Honda Accord LX Coupê 1995`
 
 <b>🚗⏰ **Cars Driven:** </b>
 
