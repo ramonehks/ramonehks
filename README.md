@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello, World!"> 
 
-<h2 align='center'><samp><strong>Welcome to my profile, dear visitant! 👋 I'm Arthur Kamino 🇧🇷 </strong></samp></h2> 
+<h2 align='center'><samp><strong>Welcome to my profile, dear visitant! 👋 I'm Arthur Vega 🇧🇷 </strong></samp></h2> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -140,20 +140,20 @@ Active programmer in web development using multiple tools, frameworks and librar
 👷 **My Projects:** <br>
 
  <div align="center">
-   <a href="https://github.com/kaminohks/Olho-De-Deus"  target="_blank" >
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=kaminohks&repo=Olho-De-Deus&theme=tokyonight" width="40%" />
+   <a href="https://github.com/vegahks/Olho-De-Deus"  target="_blank" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=vegahks&repo=Olho-De-Deus&theme=tokyonight" width="40%" />
 
-   <a href="https://github.com/kaminohks/My-Cars"  target="_blank" >
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=kaminohks&repo=My-Cars&theme=tokyonight" width="40%" />
+   <a href="https://github.com/vegahks/My-Cars"  target="_blank" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=vegahks&repo=My-Cars&theme=tokyonight" width="40%" />
 
-   <a href="https://github.com/kaminohks/FT450"  target="_blank" >
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=kaminohks&repo=FT450&theme=tokyonight" width="40%" />
+   <a href="https://github.com/vegahks/FT450"  target="_blank" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=vegahks&repo=FT450&theme=tokyonight" width="40%" />
     
   </a>
  
 
 <p align="center"><b>Profile Views</b><br>
-  <img src="https://profile-counter.glitch.me/kaminohks/count.svg" />
+  <img src="https://profile-counter.glitch.me/vegahks/count.svg" />
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer"/>
