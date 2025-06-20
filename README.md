@@ -26,7 +26,7 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 <b>🚗 **Current Cars:** </b>
 
- `Honda Accord LX Coupê 1995`
+ `Honda Accord EX Coupê 1995`
 
 <b>🚗⏰ **Cars Driven:** </b>
 
