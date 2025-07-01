@@ -140,20 +140,20 @@ Active programmer in web development using multiple tools, frameworks and librar
 👷 **My Projects:** <br>
 
  <div align="center">
-   <a href="https://github.com/yoshihks/Olho-De-Deus"  target="_blank" >
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=yoshihks&repo=Olho-De-Deus&theme=tokyonight" width="40%" />
+   <a href="https://github.com/harlitthks/Olho-De-Deus"  target="_blank" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=harlitthks&repo=Olho-De-Deus&theme=tokyonight" width="40%" />
 
-   <a href="https://github.com/yoshihks/My-Cars"  target="_blank" >
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=yoshihks&repo=My-Cars&theme=tokyonight" width="40%" />
+   <a href="https://github.com/harlitthks/My-Cars"  target="_blank" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=harlitthks&repo=My-Cars&theme=tokyonight" width="40%" />
 
-   <a href="https://github.com/yoshihks/FT450"  target="_blank" >
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=yoshihks&repo=FT450&theme=tokyonight" width="40%" />
+   <a href="https://github.com/harlitthks/FT450"  target="_blank" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=harlitthks&repo=FT450&theme=tokyonight" width="40%" />
     
   </a>
  
 
 <p align="center"><b>Profile Views</b><br>
-  <img src="https://profile-counter.glitch.me/yoshihks/count.svg" />
+  <img src="https://profile-counter.glitch.me/harlitthks/count.svg" />
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer"/>
