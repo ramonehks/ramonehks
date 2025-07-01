@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/arthuryoshi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhittarthur" height="40" width="50" /></a>
+<a href="https://instagram.com/arthurharlitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhittarthur" height="40" width="50" /></a>
 
 
 <p align='center'>Mechanical & Automotive Engineer | Lua Enthusiast Programmer | Drifting Lessons</p>
