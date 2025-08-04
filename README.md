@@ -26,11 +26,11 @@ Active programmer in web development using multiple tools, frameworks and librar
 
 <b>🚗 **Current Cars:** </b>
 
- `Honda Accord EX 1995`
+`Honda Civic EJ1 Coupê`
 
 <b>🚗⏰ **Cars Driven:** </b>
 
-`Santa Matilde SM 1986 4.1` `Honda CRX Del Sol` `Chevrolet Opala 1977` `Honda Civic EJ1 1995`  `Chevrolet Kadett GSI 2.0 1995` `Volkswagen Golf GTI MK3 1994` `Volkswagen Jetta 1995 MK3 Coupê` `Chevrolet Monza Club 1994` `Chevrolet Opala 1978` `Fiat Punto 1.6` `Citroen C4 2007`
+`Honda Accord EX 1995` `Santa Matilde SM 1986 4.1` `Honda CRX Del Sol` `Chevrolet Opala 1977` `Honda Civic EJ1 1995`  `Chevrolet Kadett GSI 2.0 1995` `Volkswagen Golf GTI MK3 1994` `Volkswagen Jetta 1995 MK3 Coupê` `Chevrolet Monza Club 1994` `Chevrolet Opala 1978` `Fiat Punto 1.6` `Citroen C4 2007`
 
 <b>🚗💸🤝 **Selled Cars:** </b>
 
