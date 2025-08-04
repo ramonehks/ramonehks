@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/arthurrhitta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhittarthur" height="40" width="50" /></a>
+<a href="https://instagram.com/arthurram0ne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthurram0ne" height="40" width="50" /></a>
 
 
 <p align='center'>Mechanical & Automotive Engineer | Lua Enthusiast Programmer | Drifting Lessons</p>
@@ -140,20 +140,20 @@ Active programmer in web development using multiple tools, frameworks and librar
 👷 **My Projects:** <br>
 
  <div align="center">
-   <a href="https://github.com/rhittahks/Olho-De-Deus"  target="_blank" >
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=rhittahks&repo=Olho-De-Deus&theme=tokyonight" width="40%" />
+   <a href="https://github.com/ramonehks/Olho-De-Deus"  target="_blank" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ramonehks&repo=Olho-De-Deus&theme=tokyonight" width="40%" />
 
-   <a href="https://github.com/rhittahks/My-Cars"  target="_blank" >
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=rhittahks&repo=My-Cars&theme=tokyonight" width="40%" />
+   <a href="https://github.com/ramonehks/My-Cars"  target="_blank" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ramonehks&repo=My-Cars&theme=tokyonight" width="40%" />
 
-   <a href="https://github.com/rhittahks/FT450"  target="_blank" >
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=rhittahks&repo=FT450&theme=tokyonight" width="40%" />
+   <a href="https://github.com/ramonehks/FT450"  target="_blank" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ramonehks&repo=FT450&theme=tokyonight" width="40%" />
     
   </a>
  
 
 <p align="center"><b>Profile Views</b><br>
-  <img src="https://profile-counter.glitch.me/rhittahks/count.svg" />
+  <img src="https://profile-counter.glitch.me/ramonehks/count.svg" />
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer"/>
