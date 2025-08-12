@@ -152,6 +152,6 @@ Active programmer in web development using multiple tools, frameworks and librar
   </a>
  
 
-![](https://komarev.com/ghpvc/?username=ramonehks&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ramonehks&style=for-the-badge&base=5111)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer"/>
