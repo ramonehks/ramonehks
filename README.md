@@ -5,7 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/arthuramone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthuramone" height="40" width="50" /></a>
+
+ 
+<a href="https://instagram.com/arthuramone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthuramone" height="40" width="50" /></a> <a href="https://facebook.com/profile.php?id=61579314692380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arthuramone" height="40" width="50" /></a> 
 
 
 <p align='center'>Mechanical & Automotive Engineer | Drifting Lessons</p>
