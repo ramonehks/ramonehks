@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello, World!"> 
 
-<h2 align='center'><samp><strong>Welcome to my profile, dear visitant! 👋 I'm Arthur Ramone 🇧🇷 </strong></samp></h2> 
+<h2 align='center'><samp><strong>Bem-vindo ao meu perfil, jovem visitante! 👋😉 Me chame de Cisco 🇧🇷 </strong></samp></h2> 
 
 <h3 align="left">Redes Vizinhas:</h3>
 <p align="left">
@@ -33,18 +33,18 @@ Programador ativo em desenvolvimento web, utilizando diversas ferramentas, frame
 
 <b>🚗💸🤝 **Carros Vendidos:** </b>
 
-`Chevrolet Monza Club 1994 (SOLD)` `Vectra GLS 1998 (SOLD)` `Fiat Punto 1.6 (SOLD)` `Citroen C4 2007 (SOLD)`
+`Chevrolet Monza Club 1994 (VENDIDO)` `Vectra GLS 1998 (VENDIDO)` `Fiat Punto 1.6 (VENDIDO)` `Citroen C4 2007 (VENDIDO)`
 
 <b>🧐 **Conhecimento em:** </b>
 
-`Responsive Web Design` `Web Language Programming` `Frameworks` `Styled Components` `Data Bases` `Object-Oriented Programming` `UI/UX Design` `Data Structures and Algorithms` `B.I Analysis` `Robotics` `Cybersecurity` `Mechanical Engineering` `Eletronic Engineering`
+`Web Design Responsivo` `Linguagem de Programação Para Web` `Frameworks` `Componentes Estilizaveis` `Banco de Dados` `Programação Orientada a Objetos` `Design UI/UX` `Estrutura de Dados e Algoritmos` `Analise de Inteligencia Artificial` `Robótica` `Cibersegurança` `Engenharia Mecânica` `Engenharia Eletrônica`
 
-💻 **Languages:** <br>
+💻 **Linguagens:** <br>
 
 ![Portugol](https://img.shields.io/badge/-Portugol-000000?style=flat&logo=portugol&logoColor=5466b8&labelColor=FFFF00)
 ![Scratch](https://img.shields.io/badge/-Scratch-000000?style=flat&logo=scratch&logoColor=FFA500&labelColor=000)
 ![HTML5](https://img.shields.io/badge/-HTML_5-000000?style=flat&logo=html5&logoColor=FF8C00&labelColor=000)
-![CSS3](https://img.shields.io/badge/-CSS_3-000000?style=flat&logo=css3&logoColor=007ACC&labelColor=000)
+![CSS3](https://img.shields.io/badge/-CSS_3-000000?style=flat&logo=css&logoColor=007ACC&labelColor=000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC&labelColor=000)
 ![CoffeeScript](https://img.shields.io/badge/-CoffeeScript-000000?style=flat&logo=coffeescript&logoColor=A0522D&labelColor=black)
@@ -61,8 +61,8 @@ Programador ativo em desenvolvimento web, utilizando diversas ferramentas, frame
 ![Racket](https://img.shields.io/badge/-Racket-000000?style=flat&logo=racket&logoColor=bb0000&labelColor=000)
 
 
-**IDEs:** <br>
-![Visual Studio Code](https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visualstudiocode&labelColor=007ACC)
+🧩 **IDEs:** <br>
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000000?style=flat&logo=visualstudiocode&labelColor=007ACC)
 ![Portugol](https://img.shields.io/badge/-Portugol-000000?style=flat&logo=portugol&logoColor=5466b8&labelColor=FFFF00)
 ![Scratch](https://img.shields.io/badge/-Scratch-000000?style=flat&logo=scratch&logoColor=FFA500&labelColor=000)
 ![Exercism](https://img.shields.io/badge/-Exercism-000000?style=flat&logo=exercism&labelColor=000)
@@ -78,9 +78,9 @@ Programador ativo em desenvolvimento web, utilizando diversas ferramentas, frame
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino&logoColor=26867c&labelColor=000)
 
 
-🛠️ **Tools:** <br>
+🛠️ **Ferramentas:** <br>
 
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwindcss)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flutter&logo=flutter&logoColor=1E90FF&labelColor=000)
 ![Vala](https://img.shields.io/badge/-Vala-000000?style=flat&logo=vala&logoColor=9370DB&labelColor=000)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=000)
@@ -91,7 +91,7 @@ Programador ativo em desenvolvimento web, utilizando diversas ferramentas, frame
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&labelColor=000)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=6B8E23&labelColor=000)
 
-🎲 **Databases:** <br>
+🎲 **Banco de Dados:** <br>
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=000)
 ![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-000000?style=flat&logo=phpmyadmin&labelColor=000)
@@ -99,7 +99,7 @@ Programador ativo em desenvolvimento web, utilizando diversas ferramentas, frame
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=32CD32&labelColor=000)
 ![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=apache&logoColor=FFA500&labelColor=000)
 
-**Operational Systems:** <br>
+📀 **Sistema Operacionais:** <br>
 
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=microsoft&logoColor=ffffff&labelColor=0078D6)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=fff&labelColor=000)
@@ -113,12 +113,13 @@ Programador ativo em desenvolvimento web, utilizando diversas ferramentas, frame
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-000000?style=flat&logo=archlinux&logoColor=0078D6&labelColor=000)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-000000?style=flat&logo=kalilinux&logoColor=0078D6&labelColor=000)
 ![Gentoo Linux](https://img.shields.io/badge/-Gentoo_Linux-000000?style=flat&logo=gentoo&logoColor=b07bd9&labelColor=000)
+![Rocky Linux](https://img.shields.io/badge/-Rocky_Linux-000000?style=flat&logo=rockylinux&logoColor=00FF7F&labelColor=000)
 ![OpenSUSE](https://img.shields.io/badge/-OpenSUSE-000000?style=flat&logo=suse&logoColor=6B8E23&labelColor=000)
 ![Slackware](https://img.shields.io/badge/-Slackware_Linux-000000?style=flat&logo=slackware&logoColor=702963&labelColor=000)
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android&logoColor=32CD32&labelColor=000)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat&logo=ios&logoColor=fff&labelColor=000)
 
- 🧠 **Learning:** <br>
+ 🧠 **Aprendendo:** <br>
  
 ![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=haskell&logoColor=b07bd9&labelColor=000)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=8A2BE2&labelColor=000) 
@@ -126,9 +127,10 @@ Programador ativo em desenvolvimento web, utilizando diversas ferramentas, frame
 ![Crystal](https://img.shields.io/badge/-Crystal-000000?style=flat&logo=Crystal&logoColor=grey&labelColor=000)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes&logoColor=0078D6&labelColor=000)
 
-🌍 **Deployment platforms:** <br>
+🌍 **Plataformas de Deploying:** <br>
 
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098)
+![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=flat&logo=leetcode&labelColor=000)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=000)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=fff&labelColor=000)
 ![Gitlab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab&logoColor=F05032&labelColor=000)
