@@ -62,6 +62,7 @@ Programador ativo em desenvolvimento web, utilizando diversas ferramentas, frame
 
 
 🧩 **IDEs:** <br>
+
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000000?style=flat&logo=visualstudiocode&labelColor=007ACC)
 ![Portugol](https://img.shields.io/badge/-Portugol-000000?style=flat&logo=portugol&logoColor=5466b8&labelColor=FFFF00)
 ![Scratch](https://img.shields.io/badge/-Scratch-000000?style=flat&logo=scratch&logoColor=FFA500&labelColor=000)
