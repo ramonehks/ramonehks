@@ -3,44 +3,39 @@
 
 <h2 align='center'><samp><strong>Welcome to my profile, dear visitant! 👋 I'm Arthur Ramone 🇧🇷 </strong></samp></h2> 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Redes Vizinhas:</h3>
 <p align="left">
 
  
 <a href="https://instagram.com/arthuramone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthuramone" height="40" width="50" /></a> <a href="https://facebook.com/profile.php?id=61579314692380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arthuramone" height="40" width="50" /></a> 
 
 
-<p align='center'>Mechanical & Automotive Engineer | Drifting Lessons</p>
+<b><p align='center'>NUNCA DESPERDICE UMA BOA TECNOLOGIA! ☝ </p></b>
 <br>
-<br>
 
 
+<p align='left'> 📫 Apaixonado por carros, especialmente por automoções, e com proficiência em angenharia mecânica, também demonstrei interesse em uma carreira em Full Stack Javascript e adoro trabalhar com ferramentas e tecnologias de ponta.</p>
 
-
-<p align='left'> 📫 As a person passionate about cars, and especially mechanical automobiless, proficiente in music production. I also I showed interest into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
-
-Active programmer in web development using multiple tools, frameworks and libraries in both frontend and backend. I pay close attention to details to generate better products.
+Programador ativo em desenvolvimento web, utilizando diversas ferramentas, frameworks e bibliotecas, tanto em front-end quanto em back-end. Sempre prestando muita atenção aos detalhes para gerar produtos melhores e mais eficientes.
 <br>
 
  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xnhiaocwcttq6elwmdbui5wpbi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 
-<b>🚗 **Current Cars:** </b>
+<b>🚗 **Carro(s) Atual(s):** </b>
 
 `Honda Civic EJ1 Coupê`
 
-<b>🚗⏰ **Cars Driven:** </b>
+<b>🚗⏰ **Cars Pilotados:** </b>
 
 `Honda Accord EX 1995` `Santa Matilde SM 1986 4.1` `Honda CRX Del Sol` `Chevrolet Opala 1977` `Honda Civic EJ1 1995`  `Chevrolet Kadett GSI 2.0 1995` `Volkswagen Golf GTI MK3 1994` `Volkswagen Jetta 1995 MK3 Coupê` `Chevrolet Monza Club 1994` `Chevrolet Opala 1978` `Fiat Punto 1.6` `Citroen C4 2007`
 
-<b>🚗💸🤝 **Selled Cars:** </b>
+<b>🚗💸🤝 **Carros Vendidos:** </b>
 
 `Chevrolet Monza Club 1994 (SOLD)` `Vectra GLS 1998 (SOLD)` `Fiat Punto 1.6 (SOLD)` `Citroen C4 2007 (SOLD)`
 
-<br>
-
-🧐 **Knowledge of:**<br>
+<b>🧐 **Conhecimento em:** </b>
 
 `Responsive Web Design` `Web Language Programming` `Frameworks` `Styled Components` `Data Bases` `Object-Oriented Programming` `UI/UX Design` `Data Structures and Algorithms` `B.I Analysis` `Robotics` `Cybersecurity` `Mechanical Engineering` `Eletronic Engineering`
 
