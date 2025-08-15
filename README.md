@@ -137,7 +137,7 @@ Programador ativo em desenvolvimento web, utilizando diversas ferramentas, frame
 ![Gitlab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab&logoColor=F05032&labelColor=000)
 
 
-👷 **My Projects:** <br>
+👷 **Meus Projetos:** <br>
 
  <div align="center">
    <a href="https://github.com/ramonehks/Olho-De-Deus"  target="_blank" >
