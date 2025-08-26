@@ -75,7 +75,7 @@ Programador ativo em desenvolvimento web, utilizando diversas ferramentas, frame
 ![RubyMine](https://img.shields.io/badge/-RubyMine-000000?style=flat&logo=rubymine&logoColor=FF4500&labelColor=000)
 ![PHPStorm](https://img.shields.io/badge/-PHPStorm-000000?style=flat&logo=phpstorm&logoColor=EE82EE&labelColor=000)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000000?style=flat&logo=eclipse&logoColor=FF8C00&labelColor=000)
-![GNS Emacs](https://img.shields.io/badge/-GNU_Emacs-000000?style=flat&logo=gnuemacs&logoColor=BA55D3&labelColor=000)
+![GNU Emacs](https://img.shields.io/badge/-GNU_Emacs-000000?style=flat&logo=gnuemacs&logoColor=BA55D3&labelColor=000)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=FFA500&labelColor=000)
 ![Sublime Text](https://img.shields.io/badge/-Sublime_Text-000000?style=flat&logo=sublimetext&logoColor=FFA500&labelColor=000)
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino&logoColor=26867c&labelColor=000)
