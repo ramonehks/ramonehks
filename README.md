@@ -117,6 +117,7 @@ Programador ativo em desenvolvimento web, utilizando diversas ferramentas, frame
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-000000?style=flat&logo=kalilinux&logoColor=0078D6&labelColor=000)
 ![Gentoo Linux](https://img.shields.io/badge/-Gentoo_Linux-000000?style=flat&logo=gentoo&logoColor=b07bd9&labelColor=000)
 ![Rocky Linux](https://img.shields.io/badge/-Rocky_Linux-000000?style=flat&logo=rockylinux&logoColor=00FF7F&labelColor=000)
+![NixOS](https://img.shields.io/badge/-Nix_OS-000000?style=flat&logo=nixos&logoColor=48D1CC&labelColor=000)
 ![OpenSUSE](https://img.shields.io/badge/-OpenSUSE-000000?style=flat&logo=suse&logoColor=6B8E23&labelColor=000)
 ![Slackware](https://img.shields.io/badge/-Slackware_Linux-000000?style=flat&logo=slackware&logoColor=702963&labelColor=000)
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android&logoColor=32CD32&labelColor=000)
