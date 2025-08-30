@@ -105,7 +105,6 @@ Programador ativo em desenvolvimento web, utilizando diversas ferramentas, frame
 📀 **Sistema Operacionais:** <br>
 
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=microsoft&logoColor=ffffff&labelColor=0078D6)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=fff&labelColor=000)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=FFA500&labelColor=000)
 ![Xubuntu](https://img.shields.io/badge/-Xubuntu-000000?style=flat&logo=xubuntu&logoColor=1E90FF&labelColor=000)
 ![Lubuntu](https://img.shields.io/badge/-Lubuntu-000000?style=flat&logo=lubuntu&logoColor=1E90FF&labelColor=000)
