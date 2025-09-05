@@ -132,6 +132,7 @@ Programador ativo em desenvolvimento web, utilizando diversas ferramentas, frame
 
 🌍 **Plataformas de Deploying:** <br>
 
+![HackTheBox](https://img.shields.io/badge/-HackTheBox-000000?style=flat&logo=hackthebox&labelColor=383838)
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=flat&logo=leetcode&labelColor=000)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=000)
