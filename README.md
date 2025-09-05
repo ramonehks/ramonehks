@@ -16,7 +16,7 @@
 <br>
 
 
-<p align='left'> 📫 Apaixonado por carros, especialmente por automoções, e com proficiência em angenharia mecânica, também demonstrei interesse em uma carreira em Full Stack Javascript e adoro trabalhar com ferramentas e tecnologias de ponta.</p>
+<p align='left'> 📫 Apaixonado por carros, especialmente por automoções, e com proficiência em angenharia mecânica, também demonstrei interesse em uma carreira em Full Stack e adoro trabalhar com ferramentas e tecnologias de ponta.</p>
 
 Programador ativo em desenvolvimento web, utilizando diversas ferramentas, frameworks e bibliotecas, tanto em front-end quanto em back-end. Sempre prestando muita atenção aos detalhes para gerar produtos melhores e mais eficientes.
 <br>
